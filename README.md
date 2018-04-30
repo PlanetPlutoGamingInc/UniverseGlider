@@ -3,4 +3,4 @@ Issue tracker for Universe Glider by Planet Pluto Gaming, Inc https://play.googl
 
 = Report a Bug =
 
-To report a bug, click Issues, New Issue.
+To report a bug, click Issues, New Issue or click here: https://github.com/PlanetPlutoGamingInc/UniverseGlider/issues/new
